@@ -29,7 +29,7 @@ export const data = [
     id: 5,
     img: 'https://i.postimg.cc/wM1zSfwH/E-Commerce-Facebook-Ad.png',
     title: "FripoShop E-commerce Website (NextJS)",
-    desc:  "This is an mobile application built using NextJs, Tailwind CSS, firebase Node js , Express and for database Mongoose ODM and payment with strapi",
+    desc:  "This is an e-commerce web site  built using NextJs, Tailwind CSS, firebase Node js , Express and for database Mongoose ODM and payment with strapi",
     link: "",
     git: "https://github.com/aymensaidani/friposhop.git",
   },

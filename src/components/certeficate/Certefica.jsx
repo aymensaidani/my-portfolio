@@ -2,7 +2,7 @@ import React from 'react'
 
 const Certefica = () => {
   return (
-    <div id="contact" className="container m-auto mt-16">
+    <div id="certificate" className="container m-auto mt-16">
     {/* heading */}
     <div 
     // data-aos="fade-up"

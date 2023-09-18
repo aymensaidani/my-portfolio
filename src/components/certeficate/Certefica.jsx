@@ -39,7 +39,7 @@ const Certefica = () => {
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
                 Mar 2023 - Aug 2023
                 </span>
-                Tasks :
+              
                 <img src='https://d1zpw5mq5bnzyn.cloudfront.net/images/d26c960ac8ad43b99e2150fd25211a6f.jpeg' />
               </div>
             </div>
